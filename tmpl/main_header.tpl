@@ -12,7 +12,7 @@
                 content="ie=edge"
             >
     
-            <title>Syscoglobalfinance - Secure Investment Platform</title>
+            <title>Sysco Global Finance</title>
     
             <link
                 rel="stylesheet"
@@ -61,7 +61,7 @@
                 type="image/x-icon"
             >
             {literal}
-                <!-- Smartsupp Live Chat script
+                <!-- Smartsupp Live Chat script -->
                 <script type="text/javascript">
                     var _smartsupp = _smartsupp || {};
                     _smartsupp.key = '3fcf20eb8c1dbbc4a5655a2c28e412d2f5a7109c';
@@ -77,7 +77,6 @@
                         s.parentNode.insertBefore(c, s);
                     })(document);
                 </script>
-                 -->
 
             {/literal}
 
@@ -124,10 +123,10 @@
                                             <a href="#0"><i class="flaticon-support"></i>Support</a>
                                         </li>
                                         <li>
-                                            <a href="Mailto:support@syscoglobalfinance.net"><i class="flaticon-email"></i><span
+                                            <a href="Mailto:support@syscoglobalfinance.com"><i class="flaticon-email"></i><span
                                                     class="__cf_email__"
                                                     data-cfemail="86efe8e0e9c6eeffeff6eae7e8e2a8e5e9eb"
-                                                >support@syscoglobalfinance.net</span> </a>
+                                                >support@syscoglobalfinance.com</span> </a>
                                         </li>
                                         
                                     </ul>
