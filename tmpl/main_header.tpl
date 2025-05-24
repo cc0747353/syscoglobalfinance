@@ -168,7 +168,7 @@
                             <div class="header-area">
                                 <div class="logo">
                                     <a href="{"?a=home"|encurl}">
-                                        <img src="./assets/images/logo/logo.svg" height="50px" width="180px" alt="logo">
+                                        <img src="assets/images/logo/logo.svg" height="50px" width="180px" alt="logo">
                                     </a>
                                 </div>
                                 <ul class="menu">
