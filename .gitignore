@@ -1,0 +1,73 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+ehthumbs.db
+Icon?
+._*
+
+# PHP specific
+/vendor/
+composer.lock
+composer.phar
+
+# Cache and temp directories
+tmpl_c/
+cache/
+*.log
+*.tmp
+
+# Smarty cache and compile directories
+inc/libs/smarty3/cache/
+inc/libs/smarty3/templates_c/
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# Node.js dependencies (if any JS build tools are used)
+node_modules/
+
+# Environment files
+.env
+.env.*
+
+# Ignore asset build outputs (if any)
+assets/js/dist/
+assets/css/dist/
+
+# Ignore user uploads (if any)
+uploads/
+files/
+
+# Ignore font build outputs (if any)
+fonts/*.woff
+fonts/*.woff2
+
+# Ignore image thumbnails or generated images
+images/thumbs/
+images/generated/
+
+# Ignore email template cache (if any)
+emailtemplates_c/
+
+# Ignore install script output
+install.log
+
+# Ignore settings overrides
+settings.php
+
+install.php
+
+# Ignore other sensitive or local config files
+local_config.php
